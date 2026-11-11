@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Executive Overview
+## Executive Overview
 **TECHNEEDS NXT** is an elite full-stack digital mentorship platform purpose-built for the technical community of **Indira Gandhi Delhi Technical University for Women (IGDTUW)**. Built to satisfy all parameters of the **REIMAGATHON 40-mark evaluation matrix**, the platform reimagines the legacy TechNeeds portal into a high-performance, production-quality ecosystem featuring:
 
 1. **3-Tier Multi-Role Hierarchies**: Secure, isolated portals for **Administrators**, **Mentors**, and **Mentees**.
@@ -21,7 +21,7 @@
 
 ---
 
-## 🏗️ Architecture & Technology Stack
+## Architecture & Technology Stack
 
 | Layer | Technology | Key Capabilities |
 | :--- | :--- | :--- |
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚡ Quick Start & Local Setup Instructions
+## Quick Start & Local Setup Instructions
 
 ### 1. Prerequisites
 - **Node.js** >= 20.0.0
@@ -60,7 +60,7 @@ npm run dev
 
 ---
 
-## 🔑 Demo Accounts for Evaluation
+## Demo Accounts for Evaluation
 
 The database seed script (`npm run seed`) pre-configures realistic demo accounts with active cohorts, resources, submissions, and badges:
 
@@ -75,7 +75,7 @@ The database seed script (`npm run seed`) pre-configures realistic demo accounts
 
 ---
 
-## 🧪 Testing & Verification
+## Testing & Verification
 All core domain logic is backed by automated unit tests:
 ```bash
 cd backend
@@ -92,7 +92,7 @@ npm test
 
 ---
 
-## 🚀 Production Deployment Guidance
+## Production Deployment Guidance
 
 ### Deploying the Backend to Render
 1. Push `backend/` to GitHub or connect repository.
@@ -115,7 +115,7 @@ npm test
 
 ---
 
-## 👥 Hackathon Submission Details
+## Hackathon Submission Details
 - **Project Name:** TECHNEEDS NXT
 - **Society:** TechNeeds IGDTUW
 - **Hackathon:** REIMAGATHON 2026
